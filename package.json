@@ -1,0 +1,22 @@
+{
+  "name": "groupa",
+  "version": "1.0.0",
+  "description": "authentication and profile setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okworiene/Group-A.git"
+  },
+  "author": "decode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okworiene/Group-A/issues"
+  },
+  "homepage": "https://github.com/okworiene/Group-A#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
